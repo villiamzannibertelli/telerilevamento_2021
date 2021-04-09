@@ -32,3 +32,5 @@ import <- lapply(rlist,raster)
 
 #crea un'unica immagine raster composta dall'insieme delle immagini singole
 TGr <- stack(import)
+
+
